@@ -3,19 +3,19 @@
     {
       "id": 1,
       "title": "bridge construction"
-    }
+    },
         {
       "id": 2,
       "title": "tunnel construction"
-    }
+    },
         {
       "id": 3,
       "title": "airport contruction"
-    }
+    },
         {
       "id": 4,
       "title": "garden construnction"
-    }
+    },
   ],
   "profile": {
     "name": "typicode"
