@@ -1,10 +1,11 @@
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "build a ramp"
-  },
+{
+  "posts": [
     {
-    "userId": 1,
-    "id": 2,
-    "title": "destroy a bridge"
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
