@@ -3,33 +3,18 @@
     {
       "id": 1,
       "title": "bridge construction"
-      "tasks": "drawing","building","control"
+      "tasks": "drawing" 
     },
     {
       "id": 2,
       "title": "tunnel construction"
-      "tasks": "drawing","building","control"
+      "tasks": "building" 
     },
     {
       "id": 3,
       "title": "airport contruction"
-      "tasks": "drawing","building","control"
+      "tasks": "control"
     },
-    {
-      "id": 4,
-      "title": "garden construction"
-      "tasks": "drawing","building","control"
-    },
-    {
-      "id": 5,
-      "title": "building construction"
-      "tasks": "drawing","building","control"
-    },
-    {
-      "id": 6,
-      "title": "Bike construction"
-      "tasks": "drawing","building","control"
-    }
   ],
   "profile": {
     "name": "typicode"
