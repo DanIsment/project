@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "bridge construction",
-      "tasks": "drawing" 
+      "tasks": "drawing", "build"
     },
     {
       "id": 2,
