@@ -4,16 +4,16 @@
       "id": 1,
       "title": "bridge construction",
       "tasks": "drawing",
-      "user": "ahmet.gungor@politie.nl"
-      "firstname": "ahmet"
+      "user": "ahmet.gungor@politie.nl",
+      "firstname": "ahmet",
       "lastname": "gungor"
     },
     {
       "id": 2,
       "title": "tunnel construction",
       "tasks": "building",
-      "user": "danisment_01@hotmail.com"
-      "firstname": "dan"
+      "user": "danisment_01@hotmail.com",
+      "firstname": "dan",
       "lastname": "isment"
       
     },
@@ -21,8 +21,8 @@
       "id": 3,
       "title": "airport contruction",
       "tasks": "control",
-      "user": "a.gungor05@versatel.nl"
-      "firstname": "anton"
+      "user": "a.gungor05@versatel.nl",
+      "firstname": "anton",
       "lastname": "gungor"
     }
   ],
