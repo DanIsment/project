@@ -4,19 +4,19 @@
       "id": 1,
       "title": "bridge construction",
       "tasks": "drawing",
-      "webuser": "ahmet.gungor@politie.nl"
+      "user": "ahmet.gungor@politie.nl"
     },
     {
       "id": 2,
       "title": "tunnel construction",
       "tasks": "building",
-      "webuser": "danisment_01@hotmail.com"
+      "user": "danisment_01@hotmail.com"
     },
     {
       "id": 3,
       "title": "airport contruction",
       "tasks": "control",
-      "webuser": "a.gungor05@versatel.nl"
+      "user": "a.gungor05@versatel.nl"
     }
   ],
   "profile": {
